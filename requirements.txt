@@ -1,0 +1,15 @@
+chainlit==1.0.200
+chromadb==0.4.23
+docx2txt==0.8
+google-api-python-client==2.119.0
+google-auth-oauthlib==1.2.0
+google-cloud-aiplatform==1.42.1
+greenlet==3.0.3
+grpcio-status==1.60.1
+httptools==0.6.1
+llama-index==0.9.48
+pip-chill==1.0.3
+pyngrok==7.1.2
+torch==2.2.0
+transformers==4.37.2
+uvloop==0.19.0
